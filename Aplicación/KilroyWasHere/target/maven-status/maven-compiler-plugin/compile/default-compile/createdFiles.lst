@@ -1,0 +1,14 @@
+kilroywashere\controlador\GenerarLocalizacion.class
+kilroywashere\modelo\Descubierto.class
+kilroywashere\controlador\GestorErrores.class
+kilroywashere\controlador\GestorTeclado.class
+kilroywashere\modelo\Pista.class
+kilroywashere\controlador\Validador.class
+kilroywashere\modelo\Usuario.class
+kilroywashere\modelo\Pieza.class
+kilroywashere\modelo\Coordenada.class
+kilroywashere\controlador\GestorFichero.class
+kilroywashere\modelo\Reliquia.class
+kilroywashere\modelo\Tesoro.class
+kilroywashere\controlador\GestorBBDD.class
+kilroywashere\vista\Principal.class
